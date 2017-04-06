@@ -1,0 +1,5 @@
+Récupérer les classe MatFunc.h et MatFunc.cpp de la librairie itpp sur :
+http://itpp.sourceforge.net/devel/matfunc_8cpp_source.html 
+
+Les coller dans : 
+/usr/include/itpp/base

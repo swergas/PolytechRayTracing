@@ -1,0 +1,11 @@
+{{{
+Project > Properties > C/C++ Build > Settings > Tool settings
+> GCC C++ Compiler > Includes:
+SDL
+SDL_image
+> GCC C++ Compiler > Misc:
+-std=c++0x
+> GCC C++ Linker > Libraries:
+SDL
+SDL_image
+}}}

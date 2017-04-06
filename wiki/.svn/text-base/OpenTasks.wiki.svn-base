@@ -1,0 +1,54 @@
+= Documentation =
+
+
+
+= Rédaction =
+
+ * Préparation de la présentation, répartition des tâches https://pad.lqdn.fr/cdgnqwWEzo
+
+ * Rapport https://pad.lqdn.fr/qMXSpvcCVP
+
+
+
+= Code =
+
+
+ * Define the comportment of the lightsource and the shape color
+--> Are the diffuse and specular light colors entirely defined by the lightsource?
+
+ * bounding box d'un objet connu (marche difficilement pour une surface paramétrée) pour accélérer le traitement
+
+ * ne plus passer par un fichier image (SDL_Surface à gérer)
+
+ * autres interaction avec le clavier pour modifier l'affichage (données de la caméra, positions des objets, propriétés des matériaux)
+
+ * déplacement d'objets dans la scène ou mouvement de caméra
+
+
+
+
+= Optional =
+
+ * Transparancy / Refraction
+
+ * animation vidéo
+
+ * refraction
+
+ * textures
+
+ * mouvement caméra & lumière
+
+ * construire une belle scène
+
+ * undersampling (mouvement) et oversampling (anti aliasing) 
+
+
+
+
+
+
+
+= coté mam =
+
+ * faire afficher une surface paramétrée dans la scène
