@@ -1,0 +1,9 @@
+
+http://seehuhn.de/pages/linear#lapack-easy
+
+http://www.parashift.com/c++-faq-lite/mixing-c-and-cpp.html
+
+http://abel.ee.ucla.edu/cvxopt/userguide/lapack.html
+
+ubuntu :
+dans la logithèque ubuntu, installer liblapack-dev libatlas-headers libatlas-base-dev 

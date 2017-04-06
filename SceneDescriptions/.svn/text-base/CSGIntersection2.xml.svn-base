@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<scene>
+	<screenSetup width="500" height="500" overSampling="3" />
+	<csg type="intersection">
+		<!-- sphère #1 -->
+		<fst>
+			<shape type="uvsphere">
+				<color r="0.0" g="0.0" b="0.0" />
+				<material ka="0.2" kd="0.9" ks="0.8" ns="80" kreflex="0.0" />
+				<center x="-0.1" y="0" z="0" />
+				<radius value="4" />
+				<texture type="marble">
+					<c0 r="0.8" g="0.8" b="0.8" />
+					<c1 r="0.4" g="0.2" b="0.1" />
+					<c2 r="0.06" g="0.04" b="0.02" />
+					<stripesPerUnit value="0.09" />
+					<scale value="2" />
+					<octaves value="8" />
+				</texture>
+				<plusphi value="0" />
+				<plustheta value="0" />
+			</shape>
+		</fst>
+		<!-- fin sphère -->
+		<!-- sphère #2 -->
+		<snd>
+			<shape type="uvsphere">
+				<color r="0.0" g="0.0" b="0.0" />
+				<material ka="0.2" kd="0.9" ks="0.8" ns="80" kreflex="0.4" />
+				<center x="0.1" y="0" z="0" />
+				<radius value="4" />
+				<texture type="image">
+					<src value="./ImagesSRC/billard10.ppm" />
+				</texture>
+				<plusphi value="0.25" />
+				<plustheta value="0.0" />
+			</shape>
+		</snd>
+		<!-- fin sphère -->
+	</csg>
+	<!-- damier du dessous -->
+	<shape type="draughtboard">
+		<color r="0.9" g="0.9" b="0.9" />
+		<material ka="0.4" kd="0.5" ks="0.4" ns="40" kreflex="0.4" />
+		<center x="0.0" y="-4.0" z="0.0" />
+		<normal x="0.0" y="1.0" z="0.0" />
+		<height value="100" />
+		<width value="100" />
+		<otherColor r="0.01" g="0.01" b="0.01" />
+		<caseSize value="4.0" />
+	</shape>
+	<!-- fin du damier -->
+	
+	<light>
+		<intensity value="3.0" />
+		<position x="-20.0" y="0.0" z="-20.0" />
+		<color r="1.0" g="1.0" b="1.0" />
+	</light>
+	<camera>
+		<observer x="-10.0" y="20.0" z="-30.0" />
+		<aimedPoint x="0" y="0" z="0" />
+		<viewAngle value="0.125" />
+		<distScreen value="0.50" />
+	</camera>
+</scene>

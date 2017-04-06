@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<scene>
+	<screenSetup width="500" height="500" overSampling="1" />
+	
+	<!-- ellipsoide à deux nappes -->
+	<shape type="quadric">
+		<color r="0.65" g="0.153" b="0.0" />
+		<material ka="0.2" kd="0.9" ks="0.8" ns="80" kreflex="0.4" />
+		<a value="0.125" />
+		<b value="0.0" />
+		<c value="0.125" />
+		<d value="0.0" />
+		<e value="0.0" />
+		<f value="0.0" />
+		<g value="0.0" />
+		<h value="0.0" />
+		<i value="0.0" />
+		<j value="-1.0" />
+	</shape>
+	<!-- fin ellipsoide -->
+	
+	<!-- damier du dessous -->
+	<shape type="draughtboard">
+		<color r="0.9" g="0.9" b="0.9" />
+		<material ka="0.4" kd="0.5" ks="0.4" ns="40" kreflex="0.0" />
+		<center x="0.0" y="-10.0" z="0.0" />
+		<normal x="0.0" y="1.0" z="0.0" />
+		<height value="100" />
+		<width value="100" />
+		<otherColor r="0.01" g="0.01" b="0.01" />
+		<caseSize value="4.0" />
+	</shape>
+	<!-- fin du damier -->
+	
+	<!-- plan du dessus -->
+	<shape type="rectangle">
+		<color r="0.9" g="0.9" b="0.9" />
+		<material ka="0.4" kd="0.5" ks="0.4" ns="40" kreflex="0.0" />
+		<center x="0.0" y="10.0" z="0.0" />
+		<normal x="0.0" y="1.0" z="0.0" />
+		<height value="100" />
+		<width value="100" />
+	</shape>
+	<!-- fin du plan du dessus -->
+	
+	<light>
+		<intensity value="3.0" />
+		<position x="20.0" y="0.0" z="-20.0" />
+		<color r="1.0" g="1.0" b="1.0" />
+	</light>
+	<camera>
+		<observer x="0.0" y="0.0" z="-40.0" />
+		<aimedPoint x="0.0" y="0.0" z="0.0" />
+		<viewAngle value="0.125" />
+		<distScreen value="0.50" />
+	</camera>
+</scene>

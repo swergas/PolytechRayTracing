@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/181/trunk/SceneDescriptions
+END
+cylindre.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/176/trunk/SceneDescriptions/cylindre.xml
+END
+ellipsoide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/176/trunk/SceneDescriptions/ellipsoide.xml
+END
+hyperboloide1nappe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/176/trunk/SceneDescriptions/hyperboloide1nappe.xml
+END
+hyperboloide2nappes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/176/trunk/SceneDescriptions/hyperboloide2nappes.xml
+END
+Scene1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/179/trunk/SceneDescriptions/Scene1.xml
+END
+Scene2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/173/trunk/SceneDescriptions/Scene2.xml
+END
+Scene3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/173/trunk/SceneDescriptions/Scene3.xml
+END
+paraboloide.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/176/trunk/SceneDescriptions/paraboloide.xml
+END
+paraboloidehperbolique.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/176/trunk/SceneDescriptions/paraboloidehperbolique.xml
+END
+defaultScene.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/178/trunk/SceneDescriptions/defaultScene.xml
+END
+CSGIntersection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/181/trunk/SceneDescriptions/CSGIntersection.xml
+END
+cone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/176/trunk/SceneDescriptions/cone.xml
+END
+CSGIntersection2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/181/trunk/SceneDescriptions/CSGIntersection2.xml
+END
+CSGUnion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/181/trunk/SceneDescriptions/CSGUnion.xml
+END

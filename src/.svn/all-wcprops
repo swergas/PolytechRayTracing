@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/186/trunk/src
+END
+SceneParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/183/trunk/src/SceneParser.h
+END
+Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/183/trunk/src/Timer.cpp
+END
+Quadrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/183/trunk/src/Quadrics.h
+END
+Vector2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/183/trunk/src/Vector2.cpp
+END
+Vector3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/183/trunk/src/Vector3.cpp
+END
+Sphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/183/trunk/src/Sphere.cpp
+END
+LightModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/153/trunk/src/LightModel.cpp
+END
+MarbleTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/MarbleTexture.h
+END
+Ray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/183/trunk/src/Ray.cpp
+END
+RNG.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/155/trunk/src/RNG.h
+END
+LightSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/152/trunk/src/LightSource.h
+END
+Set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/183/trunk/src/Set.hpp
+END
+UVSphere.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/183/trunk/src/UVSphere.cpp
+END
+PhongModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/152/trunk/src/PhongModel.h
+END
+Plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/183/trunk/src/Plane.h
+END
+ParamSurf.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/118/trunk/src/ParamSurf.h
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/183/trunk/src/Shape.h
+END
+SolidNoise.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/156/trunk/src/SolidNoise.cpp
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/160/trunk/src/tinyxml.h
+END
+Rectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/183/trunk/src/Rectangle.h
+END
+Draughtboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/182/trunk/src/Draughtboard.h
+END
+Quadrics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/183/trunk/src/Quadrics.cpp
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/160/trunk/src/tinystr.cpp
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/168/trunk/src/Image.cpp
+END
+MarbleTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/MarbleTexture.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/170/trunk/src/main.cpp
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/183/trunk/src/Timer.h
+END
+Vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/183/trunk/src/Vector2.h
+END
+Sphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/183/trunk/src/Sphere.h
+END
+RayTracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/183/trunk/src/RayTracer.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/184/trunk/src/CMakeLists.txt
+END
+Matrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/183/trunk/src/Matrix3.h
+END
+LightModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/153/trunk/src/LightModel.h
+END
+Material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/148/trunk/src/Material.cpp
+END
+Plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/183/trunk/src/Plane.cpp
+END
+Set.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/183/trunk/src/Set.h
+END
+Scene.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/169/trunk/src/Scene.h
+END
+ImageTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/183/trunk/src/ImageTexture.h
+END
+SimpleTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/156/trunk/src/SimpleTexture.cpp
+END
+SolidNoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/156/trunk/src/SolidNoise.h
+END
+Color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/168/trunk/src/Color.cpp
+END
+Cylindre.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/186/trunk/src/Cylindre.h
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/160/trunk/src/tinystr.h
+END
+Matrix3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/183/trunk/src/Matrix3.cpp
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/168/trunk/src/Image.h
+END
+ScreenV2.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/169/trunk/src/ScreenV2.h
+END
+Scene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/169/trunk/src/Scene.cpp
+END
+NoiseTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/183/trunk/src/NoiseTexture.cpp
+END
+Texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/153/trunk/src/Texture.cpp
+END
+RayTracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/182/trunk/src/RayTracer.h
+END
+ImageTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/183/trunk/src/ImageTexture.cpp
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/148/trunk/src/Material.h
+END
+Cylindre.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/186/trunk/src/Cylindre.cpp
+END
+SceneParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/183/trunk/src/SceneParser.cpp
+END
+tinyxmlerror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/160/trunk/src/tinyxmlerror.cpp
+END
+SimpleTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/src/SimpleTexture.h
+END
+tinyxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/160/trunk/src/tinyxmlparser.cpp
+END
+Color.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/168/trunk/src/Color.h
+END
+RNG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/155/trunk/src/RNG.cpp
+END
+ScreenV2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/169/trunk/src/ScreenV2.cpp
+END
+LightSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/152/trunk/src/LightSource.cpp
+END
+Vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/183/trunk/src/Vector3.h
+END
+PhongModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/152/trunk/src/PhongModel.cpp
+END
+ParamSurf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/174/trunk/src/ParamSurf.cpp
+END
+Ray.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/183/trunk/src/Ray.h
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/183/trunk/src/Shape.cpp
+END
+NoiseTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/183/trunk/src/NoiseTexture.h
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/160/trunk/src/tinyxml.cpp
+END
+Rectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/183/trunk/src/Rectangle.cpp
+END
+Texture.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/153/trunk/src/Texture.h
+END
+Draughtboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/183/trunk/src/Draughtboard.cpp
+END
+UVSphere.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/183/trunk/src/UVSphere.h
+END

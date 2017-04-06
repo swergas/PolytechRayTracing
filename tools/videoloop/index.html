@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ray Tracer Test 5</title>
+<script type="text/javascript" src="jquery-1.4.4.min.js"></script>
+<script type="text/javascript">
+$().ready(function(){
+  $('#vid').bind('ended',{},function() {
+    $(this).trigger('play');
+  });
+  $('#vid').trigger('play');
+});
+</script>
+
+
+</head>
+<body>
+
+<div style="text-align: center;">
+<video id="vid" controls="controls" loop="loop">
+  <source src="video.ogg" type="video/ogg" />
+  <!--<source src="video.mp4" type="video/mp4" />-->
+Your browser does not support the video tag.
+</video>
+</div>
+
+</body>
